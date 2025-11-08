@@ -1,3 +1,4 @@
 # Times-of-Speshway
-it is my first repos
-Author- Gaurav
+It is my first repos.
+<br>
+Autho r- Gaurav
